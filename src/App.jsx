@@ -1,8 +1,8 @@
 import React from 'react'
-import Navbar from './components/Navbar/Navbar'
-import Footer from './components/Footer/Footer'
-import Products from './components/Products/Products'
-import Home from './components/Home/Home'
+import Navbar from './components/navbar/Navbar.jsx'
+import Footer from './components/footer/Footer.jsx'
+import Products from './components/products/Products.jsx'
+import Home from './components/home/Home.jsx'
 
 export default function App() {
   return (
